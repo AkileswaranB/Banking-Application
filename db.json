@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "accno": "1",
+      "acctype": "Current",
+      "username": "Ram",
+      "password": "Password",
+      "balance": 50800,
+      "name": "Kaviram Sudharajanainar",
+      "fathername": "Paramasivan",
+      "aadharno": 123456789,
+      "panno": "4467 5321 9876",
+      "address": "Coimbatore,Tamil nadu,India",
+      "emailid": "19epci016@skcet.ac.in",
+      "phoneno": 987654321,
+      "DOB": "24-07-2001",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "accno": "2",
+      "acctype": "Current",
+      "username": "Akil",
+      "password": "Password",
+      "balance": 49100,
+      "name": "Akileswaran",
+      "fathername": "Balamani",
+      "aadharno": 123456789,
+      "panno": "4467 5321 9875",
+      "address": "Coimbatore,Tamil nadu,India",
+      "emailid": "19epci003@skcet.ac.in",
+      "phoneno": 987654321,
+      "DOB": "20-09-2001",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "accno": "3",
+      "acctype": "Current",
+      "username": "Karthi",
+      "password": "Password",
+      "balance": 50100,
+      "name": "Karthickeyen",
+      "fathername": "Maruthaiya",
+      "aadharno": 123456789,
+      "panno": "4467 5321 9874",
+      "address": "Coimbatore,Tamil nadu,India",
+      "emailid": "19epci013@skcet.ac.in",
+      "phoneno": 987654321,
+      "DOB": "17-11-2001",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "accno": "4",
+      "acctype": "Current",
+      "username": "Kavi",
+      "password": "Password",
+      "balance": 50000,
+      "name": "Kavi",
+      "fathername": "Paramasivan",
+      "aadharno": 123456789,
+      "panno": "4467 5321 9873",
+      "address": "Coimbatore,Tamil nadu,India",
+      "emailid": "19epci016@skcet.ac.in",
+      "phoneno": 987654321,
+      "DOB": "30-01-2001",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "accno": "5",
+      "acctype": "Current",
+      "username": "Krishna",
+      "password": "Password",
+      "balance": 50000,
+      "name": "Krishna",
+      "fathername": "Krishna",
+      "aadharno": 123456789,
+      "panno": "4467 5321 9872",
+      "address": "Coimbatore,Tamil nadu,India",
+      "emailid": "19epci018@skcet.ac.in",
+      "phoneno": 987654321,
+      "DOB": "10-10-2001",
+      "gender": "Male"
+    }
+  ],
+  "transactions": [
+    {
+      "amount": 1000,
+      "sender_id": 1,
+      "receiver_id": 2,
+      "id": 1
+    },
+    {
+      "amount": 2000,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "id": 2
+    },
+    {
+      "amount": 100,
+      "sender_id": 1,
+      "receiver_id": 3,
+      "id": 3
+    },
+    {
+      "amount": 100,
+      "sender_id": 1,
+      "receiver_id": 2,
+      "id": 4
+    }
+  ],
+  "invoices": []
+}

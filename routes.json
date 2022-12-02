@@ -1,0 +1,6 @@
+{
+    "/users": "/users",
+    "/users/:user": "/users/:user",
+    "/transactions": "/transactions",
+    "/transaction/:transaction": "/transactions/:transaction"
+}
